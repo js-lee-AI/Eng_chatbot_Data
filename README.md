@@ -7,4 +7,4 @@ This repo contains about **10,000 daily conversation chat logs** between human a
 There may be some typos or awkward sentences.
 
 ![0](./img/0.PNG)
-'dialogue.xlsx' is the catting logs.
+'dialogue.xlsx' is the chatting logs.
