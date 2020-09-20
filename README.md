@@ -2,7 +2,7 @@
 
 To make daily chatbot.
 
-This repo contains about 10,000 daily conversation chat logs between human and chatbot.
+This repo contains about **10,000 daily conversation chat logs** between human and chatbot.
 
 There may be some typos or awkward sentences.
 
